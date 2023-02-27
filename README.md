@@ -1,4 +1,4 @@
-# simple_tcp_udp_with_nodeJS
+# Simple tcp & udp server with NodeJS
 A very basic example to analyze stateful and stateless server with TCP and UDP
 
 
